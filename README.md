@@ -46,7 +46,9 @@ Project Structure
 Water-Leakage-Detection-System/
 │
 ├── model.py
+|
 ├── README.md
+|
 └── .gitignore
 
 Future Improvements
